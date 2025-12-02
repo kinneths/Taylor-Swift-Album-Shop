@@ -101,6 +101,8 @@ function get_tax_due(float $price, int $quantity, int $tax = 0): float {
     <?php } ?>
 </table>
 
+<div>
+<?php require "footer.php"; ?>
 </div>
 </body>
 </html>
